@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "content": "Makan siang",
+      "isFinished": false,
+      "priority": 3,
+      "id": 1
+    },
+    {
+      "content": "tidur malam",
+      "isFinished": false,
+      "priority": 3,
+      "id": 2
+    },
+    {
+      "content": "bangun pagi",
+      "isFinished": false,
+      "priority": 3,
+      "id": 3
+    },
+    {
+      "content": "olahraga",
+      "isFinished": false,
+      "priority": 3,
+      "id": 4
+    }
+  ]
+}
